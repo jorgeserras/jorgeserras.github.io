@@ -34,14 +34,11 @@ common-js:
 
 <!-- particles.js container -->
     
-    <div class="telogo"></div>
+   <div class="telogo"></div>
     
-   <div id="particles-js"></div>
-    
-    <p>I would like to say: </p>
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script>
-      $( "p" ).append( $( "<b>Appended text</b>." ) );
+      $( "head" ).append( $( "<div id="particles-js"></div>" ) );
     </script>
     
     <script>
