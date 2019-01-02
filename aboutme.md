@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: "The truly unusual day would be a day where nothing unusual happens" Persi Diaconis
-use-site-title: true
+subtitle: me
 ---
 
+"The truly unusual day would be a day where nothing unusual happens" Persi Diaconis
 <div id="aboutme-section">
 
 <p class="about-text">
