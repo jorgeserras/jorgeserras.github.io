@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "The truly unusual day would be a day where nothing unusual happens" -- Persi Diaconis
+subtitle: "The truly unusual day would be a day where nothing unusual happens" Persi Diaconis
 ---
 
 <div id="aboutme-section">
