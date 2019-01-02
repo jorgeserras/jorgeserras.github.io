@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "The truly unusual day would be a day where nothing unusual happens" Persi Diaconis
+subtitle: "The truly unusual day would be a day where nothing unusual happens" -- Persi Diaconis
 ---
 
 <div id="aboutme-section">
@@ -26,6 +26,7 @@ I obtained my MSc in <strong>Electrical and Computers Engineering </strong>from 
 I am an history and philosophy enthusiast and love to design my own art, being some of my hobbies game development and digital painting. Futhermore, I am fond of listening and creating music. Do not hesitate to contact me about aspects outside the engineering scope! 
 </p>
 
+</div>
 
 ### Contact
 
@@ -33,3 +34,4 @@ I am an history and philosophy enthusiast and love to design my own art, being s
 <span class="fa fa-envelope about-icon"></span>
 You want to collab and/or create something awesome? Follow the social media links given below or drop a mail <a target="_blank" href="mailto:jorgefuzetaserras@gmail.com">here</a>.
 </p>
+
