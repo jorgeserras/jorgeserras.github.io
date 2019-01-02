@@ -31,7 +31,7 @@ navbar-links:
     - Multivariate Time-Series Outlier Detection: "https://jorgeserras.shinyapps.io/outlierdetection/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
-  Resume: "resume/Jorge_Serras.pdf"
+  Resume: "Resume/Jorge_Serras.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
