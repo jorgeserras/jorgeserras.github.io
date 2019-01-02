@@ -35,12 +35,10 @@ common-js:
 <!-- particles.js container -->
     
     <div id="telogo"></div>
-    
-    <div id="particles-js"></div>
-    
+   
     <script>
     $(document).ready(function(){
-      $( ".telogo" ).append( $( "particles-js" ) );
+      $( ".telogo" ).append( $( "<div id="particles-js"></div>" ) );
     });
     </script>
     
