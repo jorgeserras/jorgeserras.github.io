@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: About Jorge Serras
+meta-title: About me
 subtitle: "The truly unusual day would be a day where nothing unusual happens" Persi Diaconis
 ---
 
