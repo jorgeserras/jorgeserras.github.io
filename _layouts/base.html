@@ -34,13 +34,8 @@ common-js:
 
 <!-- particles.js container -->
     
-   <div id="major_container"></div>
+    <div id="major_container"></div>
     <div id="particles-js"></div>
-    
-    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-    <script>
-      $( ".container" ).append( $( "#particles-js" ) );
-    </script>
     
     <script>
       var count_particles, stats, update;
@@ -72,6 +67,11 @@ common-js:
     {% include footer.html %}
   
     {% include footer-scripts.html %}
+    
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script>
+      $( ".container" ).append( $( "#particles-js" ) );
+    </script>
   
   </body>
 </html>
