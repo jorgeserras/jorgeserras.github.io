@@ -12,7 +12,7 @@ subtitle: "The truly unusual day would be a day where nothing unusual happens" -
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my MSc in <strong>Electrical and Computers Engineering </strong>from University Instituto Superior Técnico (<a target="_blank" href="http://www.ipu.ac.in/usict/">IST</a>) in Lisbon, Portugal, with specialization in Decision Systems and Control. My masters thesis involved developing an outlier detection system for multivariate temporal data suited to a wide range of applications. Check out the web application <a target="_blank" href="https://jorgeserras.shinyapps.io/outlierdetection/">here</a>!
+I obtained my MSc in <strong>Electrical and Computers Engineering </strong>from University Instituto Superior Técnico (<a target="_blank" href="https://tecnico.ulisboa.pt/en/">IST</a>) in Lisbon, Portugal, with specialization in Decision Systems and Control. My masters thesis involved developing an outlier detection system for multivariate temporal data suited to a wide range of applications. Check out the web application <a target="_blank" href="https://jorgeserras.shinyapps.io/outlierdetection/">here</a>!
 </p>
 
 
