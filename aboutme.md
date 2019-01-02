@@ -7,7 +7,7 @@ subtitle: "The truly unusual day would be a day where nothing unusual happens" -
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi! My name is <strong>Jorge luís Fuzeta Serras</strong> and I am a devoted open source developer and engineer hailing from Lisbon, Portugal. I am always exploring new technology related areas, retaining knowlege from web development to the area of electronics.
+  Hi! My name is <strong>Jorge luís Fuzeta Serras</strong> and I am a devoted open source developer and engineer hailing from Lisbon, Portugal. I am always exploring new technology related areas, retaining knowledge of numerous scopes from web development to the area of electronics.
 </p>
 
 <p class="about-text">
