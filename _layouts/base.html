@@ -36,8 +36,9 @@ common-js:
     
     <div id="particles-js"></div>
     
-    $( ".header" ).append( $( "particles-js" ) );
-
+    $(function(){
+      $( ".header" ).append( $( "particles-js" ) );
+    });
     
     <script>
       var count_particles, stats, update;
