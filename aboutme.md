@@ -1,10 +1,20 @@
 ---
 layout: page
+title: About Jorge Serras
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "The truly unusual day would be a day where nothing unusual happens" -- Persi Diaconis
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+  Hi! My name is <strong>Jorge luís Fuzeta Serras</strong>and I am a devoted open source developer hailing from Lisbon, Portugal. I am always exploring new technology related areas, retaining knowlege from web development to the area of electronics.
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I obtained my MSc in <strong>Electrical and Computers Engineering </strong>from University Instituto Superior Técnico (<a target="_blank" href="http://www.ipu.ac.in/usict/">IST</a>) in Lisbon, Portugal, with specialization in Decision Systems and Control. My masters thesis involved developing an outlier detection system for multivariate temporal data suited to a wide range of applications. Check out the web application <a target="_blank" href="https://jorgeserras.shinyapps.io/outlierdetection/">here</a>!
+</p>
+
 
 - I rock a great mustache
 - I'm extremely loyal to my family
