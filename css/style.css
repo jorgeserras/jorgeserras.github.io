@@ -73,6 +73,10 @@ canvas{
 
 /* ---- particles.js container ---- */
 
+#particles-js .overlay {
+    pointer-events: none;
+}
+
 #particles-js{
   width: 100%;
   height: 100%;
