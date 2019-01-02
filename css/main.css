@@ -9,7 +9,8 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #efecec;
+  /* #404040  #efecec */
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
