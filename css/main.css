@@ -281,7 +281,8 @@ footer {
 }
 
 footer p.text-muted {
-  color: {{ site.footer-text-col }};
+ /* color: {{ site.footer-text-col }}; */
+  color: #d0c2c2;
 }
 
 footer a {
