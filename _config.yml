@@ -29,7 +29,7 @@ navbar-links:
   About Me/Contact: "aboutme"
   Projects:
     - Multivariate Time-Series Outlier Detection: "https://jorgeserras.shinyapps.io/outlierdetection/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
+    - Music - Web design: "https://jorgeserras.com/music/"
   #  - GitHub Pages: "https://pages.github.com/"
   Resume: "Resume/Jorge_Serras.pdf"
 
