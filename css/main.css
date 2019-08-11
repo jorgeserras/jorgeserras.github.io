@@ -128,6 +128,7 @@ img {
 .navbar-custom .nav li a {
   font-weight: 800;
   color: {{ site.navbar-text-col }};
+  margin-right: 15px; /* added */
 }
 
 .navbar-custom .navbar-brand:hover,
